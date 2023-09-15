@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Joao_Miguel_DR2_TP3\Tp3.Classes.csproj" />
+    <ProjectReference Include="..\Joao_Miguel_DR2_TP3_Repository\Tp3.Repositorio.csproj" />
+  </ItemGroup>
+
+</Project>
