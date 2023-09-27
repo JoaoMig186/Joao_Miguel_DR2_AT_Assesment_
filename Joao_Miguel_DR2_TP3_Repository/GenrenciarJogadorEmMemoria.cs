@@ -21,5 +21,11 @@ namespace Tp3.Repositorio
             return _jogador.Where(x => x.Nome == nome).ToList();
         }
 
+        public void ExcluirJogadores(string nome)
+        {
+            var pessoa = _jogador.Find(x => x.Nome == nome);
+            _jogador.Remove(pessoa);
         }
+
+    }
 }

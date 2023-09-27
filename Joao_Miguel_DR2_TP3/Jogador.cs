@@ -7,6 +7,8 @@
         public int Numero { get; set; }
         public DateTime DataAniversario { get; set; }
         public bool Aposntado { get; set; }
+
+        private int idade;
         public int Idade
         {
             get
@@ -15,10 +17,9 @@
             }
             set
             {
-                Idade= value;
+                idade= value;
             }
         }
-
 
         public Jogador()
             {

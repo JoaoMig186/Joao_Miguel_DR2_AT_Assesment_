@@ -1,0 +1,8 @@
+6af49916-c3fc-4865-8238-9cfa8a031919; Suarez; 9; False; 24/01/1987; 36
+5d0350f3-222b-4868-9961-973c7a4682ee; Xavi; 6; True; 25/01/1980; 43
+3a481348-c61c-4cfb-a8d3-faeb1ddcc1c8; Neymar Jr; 11; False; 05/02/1992; 31
+1c146f1f-b3a6-4d09-87b8-77211a4b486f; Messi; 10; False; 24/06/1987; 36
+571c6fb3-b641-4da2-8a3e-a3fa485da642; Iniesta; 8; False; 11/05/1984; 39
+16310743-4ada-457d-b22b-d01d9b05ad47; Busquets; 5; False; 16/07/1988; 35
+0cdc3b7a-b0a0-4a21-bcaa-e2609b36366f; Alba; 18; False; 21/03/1989; 34
+0c5138b2-0585-44a9-853a-eb080d94fcca; Pique; 3; True; 02/02/1987; 36

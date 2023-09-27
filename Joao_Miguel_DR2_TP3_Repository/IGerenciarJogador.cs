@@ -10,6 +10,7 @@ namespace Tp3.Repositorio
     public interface IGerenciarJogador
     {
         void ArmazenarJogador(Jogador obj);
+        void ExcluirJogadores(string name); 
         List<Jogador> ObterLista();
         List<Jogador> ProcurarJogador(string name);
     }
