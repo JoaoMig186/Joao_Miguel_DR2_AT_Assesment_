@@ -5,7 +5,7 @@ namespace Tp3.Repositorio
     public class GenrenciarJogadorEmMemoria : IGerenciarJogador
     {
         private List<Jogador> _jogador = new List<Jogador>();
-
+       
         public void ArmazenarJogador(Jogador jogador)
         {
             _jogador.Add(jogador);
